@@ -1,6 +1,6 @@
 #my_website
 
-- So guys this is my first project of 30 days frontend challange.
+- So guys this is my first project of 25 days frontend challange.
   
 - I used html and css and little bit JavaScript for NavBar in this website
 
